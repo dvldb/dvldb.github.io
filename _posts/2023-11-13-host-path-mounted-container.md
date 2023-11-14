@@ -10,7 +10,7 @@ tags: [k8s, reconnaissance, permissions]
 
 HostPath volumes are, as named, a way to mount a path directly from the host to a running pod on the system. 
 
-Clearly, this can be a massive problem with a similar exploitation to [privileged containers](./post/privileged-container/), but it also opens an organization up to a great reconnaissance opportunity.
+Clearly, this can be a massive problem with a similar exploitation to [privileged containers](../privileged-container/), but it also opens an organization up to a great reconnaissance opportunity.
 
 ## Deployment
 
