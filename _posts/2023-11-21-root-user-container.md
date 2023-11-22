@@ -1,8 +1,8 @@
 ---
-title: "K8S: Root User Container"
+title: "K8S Root User Container"
 author: rjulian
 date: 2023-11-21 11:33:00 -0300
-categories: [Kubernetes]j
+categories: [Kubernetes]
 tags: [k8s, permissions]
 ---
 
